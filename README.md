@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me - https://vk.com/goooooood_boy
 
+
+Hello from Taafe
+Nice to meet you!
+See u later;
+
 <!---
 kapold/kapold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
