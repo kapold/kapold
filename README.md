@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @kapold
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 📫 How to reach me - https://vk.com/goooooood_boy
+- 📫 How to reach me - https://vk.com/chivomadaa
 
 
 Hello from Taafe
