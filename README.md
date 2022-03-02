@@ -1,7 +1,7 @@
 - 💞️ Future developer
 - 👋 Hi, I’m @kapold
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me - https://vk.com/chivomadaa
 
 <!---
