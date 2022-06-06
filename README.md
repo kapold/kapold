@@ -8,4 +8,4 @@
 kapold/kapold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![t52371](https://user-images.githubusercontent.com/87274587/146148987-3df0d8ea-9aeb-432d-8765-fba661911479.jpg)
+![Slime_Town_3](https://user-images.githubusercontent.com/87274587/172248970-661829e3-20c0-47b0-85ea-2d85f14714ae.gif)
